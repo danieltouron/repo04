@@ -53,6 +53,7 @@ ___
 
 >## **Ejercicio 4**  
 >- [x] **4.1 Crear repositorio local y remoto con nombre repo04**
+>![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/4.1.PNG "JAJA Q LOKO")
 >- [x] **4.2 Añadir README.md y subir los cambios al repositorio**  
 >- [x] **4.3 Crear rama con mi nombre y fecha actual (dani18052023)**  
 >- [x] **4.4 Desde la nueva rama editar el archivo**  
@@ -63,7 +64,7 @@ ___
 >## **Ejercicio 5**
 >- [x] **5.1 Crear repositorio local y remoto con nombre repo05**  
 >- [x] **5.2 Añadir README.md**  
->- [x] **5.3 Crear rama con mi nombre y fecha actual (fran18052023)**  
+>- [x] **5.3 Crear rama con mi nombre y fecha actual (dani19052023)**  
 >- [x] **5.4 Hacer 3 commits**  
 >- [x] **5.5 Subir ambas ramas**  
 >- [x] **5.6 Realizar un commit no fast-forward**  
