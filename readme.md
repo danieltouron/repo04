@@ -16,7 +16,7 @@
 >- __git remote -v__ imprimirá la lista de nombres de repositorios guardados, por tanto no sale ninguno por que no tengo ninguno guardado
 >- [x] 1.6 - Crea un repositorio remoto llamado __repo01__,asocialo a turepositorio local
 >- al vincularlo e a echo autentificarme por ser el primer repositorio que añado desde aqui
->![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/1.6.PNG "JAJA Q LOKO")
+>>![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/1.6.PNG "JAJA Q LOKO")
 >- [x] 1.7 - Vuelve a ejecutarel comando __git remote -v__ nuevamente y explica por que ahora si que aparece
 >-aparece por que he "linkeado" los repositorios (ahora tiene un destino para el contenido del repositorio)
 >>![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/1.7.PNG "JAJA Q LOKO")
@@ -53,8 +53,10 @@ ___
 
 >## **Ejercicio 4**  
 >- [x] **4.1 Crear repositorio local y remoto con nombre repo04**
->![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/4.1.PNG "JAJA Q LOKO")
->- [x] **4.2 Añadir README.md y subir los cambios al repositorio**  
+> ![no_se_ve_na_JAJA_Q_LOKO](./Capturas%20MD%20y%20GIT/4.1.PNG "JAJA Q LOKO")
+>- [ ] **4.2 Añadir README.md y subir los cambios al repositorio**  
+>- [x] Elemento no finalizado
+>>
 >- [x] **4.3 Crear rama con mi nombre y fecha actual (dani18052023)**  
 >- [x] **4.4 Desde la nueva rama editar el archivo**  
 >- [x] **4.5 Hacer 3 commits**   
